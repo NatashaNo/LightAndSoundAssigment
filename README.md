@@ -15,11 +15,13 @@ npm install
 npm start
 ```
 ## Preview
+
 ![Screenshot 2023-11-27 113149](https://github.com/NatashaNo/LightAndSoundAssigment/assets/147525329/bb0810e4-1ffc-47dc-9661-5f2e717151bc)
 ![Screenshot 2023-11-27 113132](https://github.com/NatashaNo/LightAndSoundAssigment/assets/147525329/f2c9aace-e587-4f1f-957d-79b53d56c0e5)
 ![Screenshot 2023-11-27 113242](https://github.com/NatashaNo/LightAndSoundAssigment/assets/147525329/e6ac6f1a-9caa-480a-b944-b7b984c8bb21)
 
-
+## Video
+https://www.youtube.com/watch?v=zTLazRFgBSk
 
 ## Usage
 
